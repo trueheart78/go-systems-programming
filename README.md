@@ -11,6 +11,7 @@ From the [Go Systems Programming book][book-site], and [my book notes][book-note
 1. [Converting an Array to a Map](array2map.go)
 1. [Data Structures](dataStructures.go)
 1. [Interface / Duck Typing](interfaces.go)
+1. [Random Numbers](random.go)
 
 [book-site]: https://www.packtpub.com/networking-and-servers/go-systems-programming
 [book-notes]: https://github.com/trueheart78/book-notes/tree/master/go-systems-programming
