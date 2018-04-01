@@ -43,5 +43,10 @@ From the [Go Systems Programming book][book-site], and [my book notes][book-note
    * `go get github.com/go-sql-driver/mysql`
 1. [Garbage Collection](garbageCol.go) 
 
+### Files and Directories
+
+1. [Using Command-Line Flags](usingFlag.go)
+
+
 [book-site]: https://www.packtpub.com/networking-and-servers/go-systems-programming
 [book-notes]: https://github.com/trueheart78/book-notes/tree/master/go-systems-programming
