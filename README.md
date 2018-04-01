@@ -28,7 +28,20 @@ From the [Go Systems Programming book][book-site], and [my book notes][book-note
 1. [Find and Replace](findReplace.go)
 1. [Reflection](reflection.go)
 1. [Unreachable Code](unreachable.go)
-    * `go tool vet unreachable.go`
+   * `go tool vet unreachable.go`
+
+### Packages, Algorithms & Data Structures
+
+1. [Sorting Slices](sortSlice.go)
+1. [Runtime](runtime.go)
+1. [A Simple Package](aSimplePackage.go)
+   * `mkdir -p ~/go/src/aSimplePackage`
+   * `cp aSimplePackage.go ~/go/src/aSimplePackage/`
+   * `go install aSimplePackage`
+1. [Using A Simple Package](usePackage.go)
+1. [Using The MySQL Package](useMySQL.go)
+   * `go get github.com/go-sql-driver/mysql`
+1. [Garbage Collection](garbageCol.go) 
 
 [book-site]: https://www.packtpub.com/networking-and-servers/go-systems-programming
 [book-notes]: https://github.com/trueheart78/book-notes/tree/master/go-systems-programming
