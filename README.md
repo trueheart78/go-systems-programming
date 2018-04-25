@@ -46,7 +46,9 @@ From the [Go Systems Programming book][book-site], and [my book notes][book-note
 ### Files and Directories
 
 1. [Using Command-Line Flags](usingFlag.go)
-
+   * `go run usingFlag.go -o -c -k 5`
+1. [Symbolic Links](symbLink.go)
+   * `go run symbLink.go /etc`
 
 [book-site]: https://www.packtpub.com/networking-and-servers/go-systems-programming
 [book-notes]: https://github.com/trueheart78/book-notes/tree/master/go-systems-programming
