@@ -51,11 +51,13 @@ From the [Go Systems Programming book][book-site], and [my book notes][book-note
    * `go run symbLink.go /etc`
 1. [pwd(1)](pwd/pwd.go)
    * `go run pwd.go -P`
-1. [which(1)](pwd/which.go)
+1. [which(1)](which/which.go)
    * `go run which.go ls` to show the first
    * `go run which.go -a ls` to show all
    * `go run which.go -s ls && echo $?` to print the exit code
    * `go run which.go -s butts && echo $?` to print the exit code
+1. [permissions](permissions/permissions.go)
+   * `go run permissions.go ~`
 
 [book-site]: https://www.packtpub.com/networking-and-servers/go-systems-programming
 [book-notes]: https://github.com/trueheart78/book-notes/tree/master/go-systems-programming
