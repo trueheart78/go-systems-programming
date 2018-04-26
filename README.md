@@ -35,8 +35,6 @@ From the [Go Systems Programming book][book-site], and [my book notes][book-note
 1. [Sorting Slices](sortSlice/sortSlice.go)
 1. [Runtime](runtime/runtime.go)
 1. [A Simple Package](aSimplePackage/aSimplePackage.go)
-   * `mkdir -p ~/go/src/aSimplePackage`
-   * `cp aSimplePackage.go ~/go/src/aSimplePackage/`
    * `go install aSimplePackage`
 1. [Using A Simple Package](usePackage/usePackage.go)
 1. [Using The MySQL Package](useMySQL/useMySQL.go)

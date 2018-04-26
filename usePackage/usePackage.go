@@ -1,8 +1,9 @@
 package main
 
 import (
-	"aSimplePackage"
 	"fmt"
+
+	"github.com/trueheart78/go-systems-programming/aSimplePackage"
 )
 
 func main() {
