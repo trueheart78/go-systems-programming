@@ -56,6 +56,8 @@ From the [Go Systems Programming book][book-site], and [my book notes][book-note
    * `go run which.go -s butts && echo $?` to print the exit code
 1. [permissions](permissions/permissions.go)
    * `go run permissions.go ~`
+1. [rm](rm/rm.go)
+   * `go run rm.go 123`
 
 [book-site]: https://www.packtpub.com/networking-and-servers/go-systems-programming
 [book-notes]: https://github.com/trueheart78/book-notes/tree/master/go-systems-programming
